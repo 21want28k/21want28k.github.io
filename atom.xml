@@ -1,44 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://21want28k.github.io/</id>
+    <id>http://localhost:4000</id>
     <title>河海哥yyds</title>
-    <updated>2021-04-25T13:01:02.285Z</updated>
+    <updated>2021-04-25T13:08:51.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://21want28k.github.io/"/>
-    <link rel="self" href="https://21want28k.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>河海哥的个人博客</subtitle>
-    <logo>https://21want28k.github.io/images/avatar.png</logo>
-    <icon>https://21want28k.github.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2021, 河海哥yyds</rights>
     <entry>
-        <title type="html"><![CDATA[11]]></title>
-        <id>https://21want28k.github.io/post/11/</id>
-        <link href="https://21want28k.github.io/post/11/">
+        <title type="html"><![CDATA[1]]></title>
+        <id>http://localhost:4000/post/1/</id>
+        <link href="http://localhost:4000/post/1/">
         </link>
-        <updated>2021-04-25T12:37:06.000Z</updated>
-        <content type="html"><![CDATA[<p>托<br>
-托尔斯泰</p>
-<p>托尔斯泰<br>
-尔斯泰<br>
-托尔斯泰<br>
-托尔斯泰<br>
-托尔斯泰<br>
-托尔斯泰</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[test]]></title>
-        <id>https://21want28k.github.io/post/test/</id>
-        <link href="https://21want28k.github.io/post/test/">
-        </link>
-        <updated>2021-04-25T11:55:38.000Z</updated>
-        <content type="html"><![CDATA[<p>testt111<br>
-testt111<br>
-testt111<br>
-testt111<br>
-testt111<br>
-testt111<br>
-testt111</p>
+        <updated>2021-04-25T13:08:20.000Z</updated>
+        <content type="html"><![CDATA[<p>1<br>
+1<br>
+1<br>
+1<br>
+1<br>
+1<br>
+1<br>
+1</p>
 ]]></content>
     </entry>
 </feed>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://localhost:4000</id>
-    <title>河海哥yyds</title>
-    <updated>2021-04-25T10:26:51.081Z</updated>
+    <title>123</title>
+    <updated>2021-04-25T10:54:10.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://localhost:4000"/>
     <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>http://localhost:4000/images/avatar.png</logo>
     <icon>http://localhost:4000/favicon.ico</icon>
-    <rights>All rights reserved 2021, 河海哥yyds</rights>
+    <rights>All rights reserved 2021, 123</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
         <id>http://localhost:4000/post/test/</id>
